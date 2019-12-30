@@ -1,0 +1,120 @@
+#title{
+  background-image: url("back9.jpg");
+}
+
+#features{
+  padding: 7% 15%;
+}
+
+#work{
+    background-image: url("back4.jpg");
+}
+
+
+.responsive {
+  width: 100%;
+  height: auto;
+}
+
+h1{
+
+  font-weight: bold;
+  color: #fff;
+  font-size: 42em;
+}
+
+h3{
+  color: white;
+  font-family: 'Press Start 2P', cursive;
+    font-weight: bold;
+}
+
+p{
+  color: white;
+  font-weight: bold;
+}
+
+.feature-box{
+  text-align: center;
+}
+
+.fas{
+  margin-bottom: 1rem;
+}
+
+.fas:hover{
+  color: gray;
+}
+
+.container{
+    padding:5%;
+}
+.container .img{
+    text-align:center;
+}
+.container .details{
+    border-left:3px solid #ded4da;
+}
+.container .details p{
+    font-size:15px;
+    font-weight:bold;
+}
+
+#about img {
+  margin: 20px;
+}
+
+/*---------------------------------------
+  Contact section
+-----------------------------------------*/
+
+.contact-info .fa {
+  padding-right: 5px;
+}
+
+#contact .form-control {
+  border: none;
+  border-bottom: 2px solid #f0f0f0;
+  border-radius: 0px;
+  box-shadow: none;
+  font-size: 18px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  -webkit-transition: all ease-in-out 0.4s;
+  transition: all ease-in-out 0.4s;
+}
+
+#contact .form-control:focus {
+  border-bottom-color: #999999;
+}
+
+#contact input {
+  height: 55px;
+}
+
+#contact button#submit {
+  background: #2b2b2b;
+  border: none;
+  border-radius: 50px;
+  color: #ffffff;
+  height: 50px;
+  margin-top: 24px;
+}
+
+#contact button#submit:hover {
+  background: #7682cc;
+  color: #ffffff;
+}
+
+#contact {
+  background-image: url("back4.jpg");
+}
+
+#contact h2{
+  color: red;
+}
+
+#pricing h1{
+  color: black;
+  weight:"bold";
+}
