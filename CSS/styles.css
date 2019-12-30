@@ -1,3 +1,7 @@
+html {
+  scroll-behavior: smooth;
+ }
+
 #title{
   background-image: url("back9.jpg");
 }
